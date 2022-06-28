@@ -22,6 +22,7 @@ Once you have the playlist ready, you can submit it and it will be automatically
 ## Known issues (will eventually be fixed on further updates)
 
 1- Everytime you restart the app (deleting the authentication token from the URL), the app will re-authenticate at the moment of pressing the "search" button, which will cause that what you already typed in the app will get deleted and you need to enter it again.
+
 2- After submitting your playlist for the first time, this may not be saved into your Spotify profile , so you'll need to submit it again.
 
 If you find any other known issues feel free to leave a comment in this repository to let me know.
