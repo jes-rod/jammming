@@ -36,7 +36,7 @@ An instructions guide was also provided by the website about how to build the ap
 
 There may be more functionality implemented in the near future to further practice on React.js 
 
-Feel free to leave any suggestion in the comments section below so I may implement it in the future.
+Feel free to leave any suggestion in the comments section so I may implement it in the future.
 
 
 
