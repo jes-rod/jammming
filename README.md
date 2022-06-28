@@ -8,6 +8,8 @@ The Jammming app is intended as a searching paltform that utilizes the Spotify A
 
 ## How to use the app.
 
+You can access the build version of this app on the following Netlify link: https://jesrod-jammming.netlify.app
+
 In the current version, you will see a website with a search bar in which you can enter the name of any song or artist and a results feed will appear in the left side of the website.
 
 If you are not yet logged in into your Spotify account, you will be prompted to do so and after that, you will be redirected to the same page.
