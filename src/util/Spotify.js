@@ -1,6 +1,6 @@
 let accessToken = "";
 let clientID = "a3e9264b555e405c9f796b4851e2a8eb";
-let redirectURI = "https://Codecademy-project-Jammming.jeserrodriguez.repl.co/";
+let redirectURI = "";
 
 const Spotify = {
 
@@ -9,7 +9,7 @@ const Spotify = {
       return ;
     }
     else{
-      
+      redirectURI = window.location.href;
       let finalURL= window.location.href;
       let tokensrt = finalURL.match(/access_token=([^&]*)/) + "";
       let expirationsrt = finalURL.match(/expires_in=([^&]*)/) + "";
