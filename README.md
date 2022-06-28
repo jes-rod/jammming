@@ -29,7 +29,7 @@ If you find any other known issues feel free to leave a comment in this reposito
 
 ## Details about the code.
 
-Codecademy already provided the CSs styling and index.html file for the app to work. My duty was to code all JavaScript functionality related with React.js including the creation of the app itself through Node.js, to make the whole app to work from start to finish.
+Codecademy already provided the CSS styling and index.html file for the app to work. My duty was to code all JavaScript functionality related with React.js including the creation of the app itself through Node.js, to make the whole app to work from start to finish.
 
 An instructions guide was also provided by the website about how to build the app.
 
